@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 # Muddy Card Study Resources
@@ -25,7 +26,7 @@ At different points throughout the study we will be sending out emails about dif
 
 **Navigation:**
 
-- <a href="https://docs.google.com/document/d/1Z63tyvq0ssNZsZ44acSmX1_WMosPnN8J/edit#heading=h.1gxtzaxoky5u"> Student Participant Information Statment</a>
-
+- [System Demonstration]({% link Pages/System_Demo.md %})
+- [Assigning Credit to Muddy Cards]({% link Pages/Assigning_Credit.md %})
  
 ----
