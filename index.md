@@ -28,5 +28,5 @@ At different points throughout the study we will be sending out emails about dif
 
 - [System Demonstration]({% link Pages/System_Demo.md %})
 - [Assigning Credit to Muddy Cards]({% link Pages/Assigning_Credit.md %})
- 
-----
+- [Getting Ready for Semester 1 Classes]({% link Pages/Getting_Ready_for_Semester.md %})
+- [Accessing the Teacher Interface]({% link Pages/Teacher_Interface_Links.md %})
