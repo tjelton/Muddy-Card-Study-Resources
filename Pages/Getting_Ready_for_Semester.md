@@ -17,6 +17,14 @@ The following provides some information to help you prepare your students for mu
 As part of our ethics approval, we need to provide students the option to completely opt out of using the system (including the Canvas page we set up for this unit). To do this, please duplicate the Microsoft Form <a href="https://forms.office.com/Pages/ShareFormPage.aspx?id=pzvpe4JE0EmlEnxoGAluM85Y2VhB72FOodDs8uODF9pURTFJQVFDSko5WkZWQjdRRTVFV1lFTjg5Ry4u&sharetoken=R4CyIvtSpzQHQdEmuRbA" target="_blank" rel="noopener noreferrer">
   here</a>.
 
+When creating this link, please make sure to set the **settings** to "anybody can respond":
+
+![Form Setting](https://raw.githubusercontent.com/tjelton/Muddy-Card-Study-Resources/refs/heads/main/Assets/Form_Setting.png)
+
+(As you are likely setting this up on a staff account, the default setting is to only let other staff respond to the form)
+
+
+
 We suspect that not many students will fill out this form, but we need it to be made available. Once you have set up the form, you will need to include the form link in the document in step 2 below.
 
 ## 2. Letting your students know about the study (IMPORTANT/COMPULSORY)
