@@ -52,7 +52,7 @@ In addition, I have created lecture slides with QR codes that, for each weekly m
 * <a href="https://docs.google.com/presentation/d/1H89r2Ue5lkDDc8GyOPsWqeWK7YpZiL6E/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">ECMT1010</a>
 * <a href="https://docs.google.com/presentation/d/1H4Crz-V-4oWKmYId5rQKLnU-pguEk_p5/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">DATA4207/5207</a>
 * <a href="https://docs.google.com/presentation/d/1H4Crz-V-4oWKmYId5rQKLnU-pguEk_p5/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CVIL2700</a>
-
+* <a href="https://docs.google.com/presentation/d/1H4Crz-V-4oWKmYId5rQKLnU-pguEk_p5/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CVIL2700</a>
 
 If you would rather just access images of the QR codes, they can be found here for each unit, respectively:
 
@@ -61,8 +61,8 @@ If you would rather just access images of the QR codes, they can be found here f
 * <a href="https://drive.google.com/drive/folders/1IIQhCNzp9ZrASJE4EFjZV0p4bjvT9YFF?usp=drive_link" target="_blank" rel="noopener noreferrer">MATH2061</a>
 * <a href="https://drive.google.com/drive/folders/1Vvy2M20xFxtt3D5X22Jqd2Rh21YZqQvZ?usp=drive_link" target="_blank" rel="noopener noreferrer">ECMT1010</a>
 * <a href="https://drive.google.com/drive/folders/1eyiiW00UUNgVZpSbXQ_yGBfBN0fONWL_?usp=drive_link" target="_blank" rel="noopener noreferrer">DATA4207/5207</a>
-* <a href="https://drive.google.com/drive/folders/1eyiiW00UUNgVZpSbXQ_yGBfBN0fONWL_?usp=drive_link" target="_blank" rel="noopener noreferrer">CIVL2700</a>
-
+* <a href="https://drive.google.com/drive/folders/1OrnIFgrbPYgdOBuP6E_0B65Kn1SLoAwD?usp=drive_link" target="_blank" rel="noopener noreferrer">CIVL2700</a>
+* <a href="https://drive.google.com/drive/folders/1v1000eu7FGu0b_ArEd74AqsIPF5jgoFg?usp=drive_link" target="_blank" rel="noopener noreferrer">CIVL2700</a>
 
 
 
