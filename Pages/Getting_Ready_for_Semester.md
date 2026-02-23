@@ -51,8 +51,9 @@ In addition, I have created lecture slides with QR codes that, for each weekly m
 * <a href="https://docs.google.com/presentation/d/1KEhzzw_Xpppgyyl7Fug6dZMhjbrtkpHr/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">MATH2061</a>
 * <a href="https://docs.google.com/presentation/d/1H89r2Ue5lkDDc8GyOPsWqeWK7YpZiL6E/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">ECMT1010</a>
 * <a href="https://docs.google.com/presentation/d/1H4Crz-V-4oWKmYId5rQKLnU-pguEk_p5/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">DATA4207/5207</a>
-* <a href="https://docs.google.com/presentation/d/1H4Crz-V-4oWKmYId5rQKLnU-pguEk_p5/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CVIL2700</a>
-* <a href="https://docs.google.com/presentation/d/1H4Crz-V-4oWKmYId5rQKLnU-pguEk_p5/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">IDEA9105</a>
+* <a href="https://docs.google.com/presentation/d/1OWUSS7tDNiODbV_UGAxthDWsg9P8YK7L/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CVIL2700</a>
+* <a href="https://docs.google.com/presentation/d/1U0uOJsfQARM4i2HWqOj06Jm7acQhXHMe/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">IDEA9105</a>
+* <a href="https://docs.google.com/presentation/d/1jjiUoJ0L3vwbuR_ou8ND1-Hsc2tfoIls/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">PSYC2012</a>
 
 If you would rather just access images of the QR codes, they can be found here for each unit, respectively:
 
@@ -63,6 +64,7 @@ If you would rather just access images of the QR codes, they can be found here f
 * <a href="https://drive.google.com/drive/folders/1eyiiW00UUNgVZpSbXQ_yGBfBN0fONWL_?usp=drive_link" target="_blank" rel="noopener noreferrer">DATA4207/5207</a>
 * <a href="https://drive.google.com/drive/folders/1OrnIFgrbPYgdOBuP6E_0B65Kn1SLoAwD?usp=drive_link" target="_blank" rel="noopener noreferrer">CIVL2700</a>
 * <a href="https://drive.google.com/drive/folders/1v1000eu7FGu0b_ArEd74AqsIPF5jgoFg?usp=drive_link" target="_blank" rel="noopener noreferrer">IDEA9105</a>
+* <a href="https://drive.google.com/drive/folders/1rYE2c26Tv8H0cnoa3iQzUYBCIhcnwAjB?usp=drive_link" target="_blank" rel="noopener noreferrer">PSYC2012</a>
 
 
 
