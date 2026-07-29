@@ -15,9 +15,7 @@ If unsure how to use the teacher interface, please refer to the <a href="https:/
 
 Different units of study will use different muddy card teacher interface links:
 
-- COMP4446/5046, NEUR3005/3905, DATA4207/5207: Use the link <a href="https://saipll.shinyapps.io/teacher-interface-group-a/" target="_blank" rel="noopener noreferrer">here</a>.
-- MATH2061, ECMT1010, IDEA9105, PSYC2012: Use the link <a href="https://saipll.shinyapps.io/teacher-interface-group-b/" target="_blank" rel="noopener noreferrer">here</a>.
-- CIVL2700 (you will have to upload twice, once for the Tuesday muddy card data, and once for the Wednesday muddy card data. e.g., for the Tuesday Week 2 muddy cards and Wednesday Week 2 muddy cards, select week 2 in the interface). Use the link <a href="https://saipll.shinyapps.io/teacher-interface-group-a/" target="_blank" rel="noopener noreferrer">here</a>. 
+- IDEA9105 Semester 2: Use the link <a href="https://saipll.shinyapps.io/teacher-interface-group-a/" target="_blank" rel="noopener noreferrer">here</a>.
 
 
 
