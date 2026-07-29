@@ -46,7 +46,7 @@ Please click <a href="https://docs.google.com/presentation/d/1aR5wf5hMwnhIQj_vfX
 
 In addition, I have created lecture slides with QR codes that, for each weekly muddy card submission, will take your students directly to the muddy card to complete. They can be found here for each unit, respectively:
 
-* <a href="https://docs.google.com/presentation/d/1U0uOJsfQARM4i2HWqOj06Jm7acQhXHMe/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">IDEA9105 Semester 2</a>
+* <a href="https://docs.google.com/presentation/d/1E4dD3dXcL8CcXY0aKkonhbX_ciU-Ed4L/edit?slide=id.p4#slide=id.p4" target="_blank" rel="noopener noreferrer">IDEA9105 Semester 2</a>
 
 If you would rather just access images of the QR codes, they can be found here for each unit, respectively:
 
