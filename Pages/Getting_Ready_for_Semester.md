@@ -42,7 +42,7 @@ Please make sure you explain to students how credit for muddy cards is attribute
 
 To make implementing muddy cards as easy as possible for your unit, I have put together optional lecture slides you can add to your lecture content.
 
-Please click <a href="https://docs.google.com/presentation/d/1E4dD3dXcL8CcXY0aKkonhbX_ciU-Ed4L/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">here</a> to get slides that generally explain to students how to submit their muddy cards.
+Please click <a href="https://docs.google.com/presentation/d/1aR5wf5hMwnhIQj_vfXjC4hoC3ij6y1wJ/edit?slide=id.p2#slide=id.p2" target="_blank" rel="noopener noreferrer">here</a> to get slides that generally explain to students how to submit their muddy cards.
 
 In addition, I have created lecture slides with QR codes that, for each weekly muddy card submission, will take your students directly to the muddy card to complete. They can be found here for each unit, respectively:
 
