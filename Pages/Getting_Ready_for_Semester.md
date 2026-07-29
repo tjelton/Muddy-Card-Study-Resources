@@ -50,7 +50,7 @@ In addition, I have created lecture slides with QR codes that, for each weekly m
 
 If you would rather just access images of the QR codes, they can be found here for each unit, respectively:
 
-* <a href="https://drive.google.com/drive/folders/1nK8FABlHBuRWIDb0bKFzOcQ6lj4jqHyV?usp=drive_link" target="_blank" rel="noopener noreferrer">IDEA9105 Smemester 2</a>
+* <a href="https://drive.google.com/drive/folders/1nK8FABlHBuRWIDb0bKFzOcQ6lj4jqHyV?usp=drive_link" target="_blank" rel="noopener noreferrer">IDEA9105 Semester 2</a>
 
 
 
