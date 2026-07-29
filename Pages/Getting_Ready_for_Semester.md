@@ -42,30 +42,15 @@ Please make sure you explain to students how credit for muddy cards is attribute
 
 To make implementing muddy cards as easy as possible for your unit, I have put together optional lecture slides you can add to your lecture content.
 
-Please click <a href="https://docs.google.com/presentation/d/1aR5wf5hMwnhIQj_vfXjC4hoC3ij6y1wJ/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">here</a> to get slides that generally explain to students how to submit their muddy cards.
+Please click <a href="https://docs.google.com/presentation/d/1E4dD3dXcL8CcXY0aKkonhbX_ciU-Ed4L/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">here</a> to get slides that generally explain to students how to submit their muddy cards.
 
 In addition, I have created lecture slides with QR codes that, for each weekly muddy card submission, will take your students directly to the muddy card to complete. They can be found here for each unit, respectively:
 
-* <a href="https://docs.google.com/presentation/d/1jFscYduIkfXO8_PZLhazoXZTYLlYNUfw/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">COMP4446/5046</a>
-* <a href="https://docs.google.com/presentation/d/1SbeRuoH_8U8WFVu5kNzbV8HF1neCa-8a/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">NEUR3005/3905</a>
-* <a href="https://docs.google.com/presentation/d/1KEhzzw_Xpppgyyl7Fug6dZMhjbrtkpHr/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">MATH2061</a>
-* <a href="https://docs.google.com/presentation/d/1H89r2Ue5lkDDc8GyOPsWqeWK7YpZiL6E/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">ECMT1010</a>
-* <a href="https://docs.google.com/presentation/d/1H4Crz-V-4oWKmYId5rQKLnU-pguEk_p5/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">DATA4207/5207</a>
-* <a href="https://docs.google.com/presentation/d/1OWUSS7tDNiODbV_UGAxthDWsg9P8YK7L/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CVIL2700</a>
-* <a href="https://docs.google.com/presentation/d/1U0uOJsfQARM4i2HWqOj06Jm7acQhXHMe/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">IDEA9105</a>
-* <a href="https://docs.google.com/presentation/d/1jjiUoJ0L3vwbuR_ou8ND1-Hsc2tfoIls/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">PSYC2012</a>
+* <a href="https://docs.google.com/presentation/d/1U0uOJsfQARM4i2HWqOj06Jm7acQhXHMe/edit?usp=drive_link&ouid=115916836785714353071&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">IDEA9105 Semester 2</a>
 
 If you would rather just access images of the QR codes, they can be found here for each unit, respectively:
 
-* <a href="https://drive.google.com/drive/folders/1Xd-Uwn59H-tJiPtIVlhXwHLhE1kfL2cK?usp=drive_link" target="_blank" rel="noopener noreferrer">COMP4446/5046</a>
-* <a href="https://drive.google.com/drive/folders/1dNtjiRJ7HuCqFUfZEeCvsEmsZMqn2mSo?usp=drive_link" target="_blank" rel="noopener noreferrer">NEUR3005/3905</a>
-* <a href="https://drive.google.com/drive/folders/1IIQhCNzp9ZrASJE4EFjZV0p4bjvT9YFF?usp=drive_link" target="_blank" rel="noopener noreferrer">MATH2061</a>
-* <a href="https://drive.google.com/drive/folders/1Vvy2M20xFxtt3D5X22Jqd2Rh21YZqQvZ?usp=drive_link" target="_blank" rel="noopener noreferrer">ECMT1010</a>
-* <a href="https://drive.google.com/drive/folders/1eyiiW00UUNgVZpSbXQ_yGBfBN0fONWL_?usp=drive_link" target="_blank" rel="noopener noreferrer">DATA4207/5207</a>
-* <a href="https://drive.google.com/drive/folders/1OrnIFgrbPYgdOBuP6E_0B65Kn1SLoAwD?usp=drive_link" target="_blank" rel="noopener noreferrer">CIVL2700</a>
-* <a href="https://drive.google.com/drive/folders/1v1000eu7FGu0b_ArEd74AqsIPF5jgoFg?usp=drive_link" target="_blank" rel="noopener noreferrer">IDEA9105</a>
-* <a href="https://drive.google.com/drive/folders/1rYE2c26Tv8H0cnoa3iQzUYBCIhcnwAjB?usp=drive_link" target="_blank" rel="noopener noreferrer">PSYC2012</a>
-
+* <a href="https://drive.google.com/drive/folders/1nK8FABlHBuRWIDb0bKFzOcQ6lj4jqHyV?usp=drive_link" target="_blank" rel="noopener noreferrer">IDEA9105 Smemester 2</a>
 
 
 
